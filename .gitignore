@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Variáveis de ambiente locais (não versionar dados sensíveis)
+.env
+*/.env
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
