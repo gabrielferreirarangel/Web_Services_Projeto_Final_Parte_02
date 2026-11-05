@@ -28,3 +28,4 @@ export function buscarPorId(req: Request, res: Response, next: NextFunction): vo
     next(error);
   }
 }
+

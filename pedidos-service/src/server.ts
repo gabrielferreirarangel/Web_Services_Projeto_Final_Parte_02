@@ -46,3 +46,4 @@ app.use((err: any, _req: Request, res: Response, _next: NextFunction) => {
 app.listen(PORT, () => {
   console.log(`[${SERVICE_NAME}] Rodando na porta ${PORT}`);
 });
+

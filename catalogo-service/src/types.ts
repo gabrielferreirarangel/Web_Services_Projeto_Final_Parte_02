@@ -16,3 +16,4 @@ export interface ApiError {
   mensagem: string;
   codigo?: string;
 }
+

@@ -35,3 +35,4 @@ export async function reservarEstoque(
     throw new AppError("Catálogo indisponível", 502, "CATALOGO_INDISPONIVEL");
   }
 }
+

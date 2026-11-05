@@ -9,3 +9,4 @@ export class AppError extends Error {
     this.codigo = codigo;
   }
 }
+

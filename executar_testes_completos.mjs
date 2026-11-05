@@ -237,3 +237,4 @@ main().catch((err) => {
   console.error("Falha geral:", err);
   process.exit(1);
 });
+

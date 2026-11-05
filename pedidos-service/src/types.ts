@@ -22,3 +22,4 @@ export type CriarPedidoInput = {
   quantidade: number;
   clienteEmail: string;
 };
+

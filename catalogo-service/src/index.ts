@@ -138,3 +138,4 @@ app.use((err: any, _req: Request, res: Response, _next: any) => {
 app.listen(PORT, () => {
   console.log(`[${SERVICE_NAME}] Rodando na porta ${PORT}`);
 });
+

@@ -8,3 +8,4 @@ router.get("/pedidos", pedidoController.listar);
 router.get("/pedidos/:id", pedidoController.buscarPorId);
 
 export default router;
+
