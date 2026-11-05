@@ -1,0 +1,8 @@
+{
+  "name": "web-services-projeto-final-parte-02",
+  "version": "1.0.0",
+  "description": "Projeto Integrador Parte 2 - Web Services IFMS",
+  "scripts": {
+    "test": "node executar_testes_completos.mjs"
+  }
+}
